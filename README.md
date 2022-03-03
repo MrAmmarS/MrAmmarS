@@ -9,8 +9,8 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other awesome people
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play games and reading, it is true, i really enjoy reading!
+<!-- - 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play games and reading, it is true, i really enjoy reading! -->
 
 ### Connect with me:
 
