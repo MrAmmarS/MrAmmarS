@@ -2,13 +2,15 @@
 [instagram]: https://instagram.com/mrsenpie
 [linkedin]: https://www.linkedin.com/in/ammarsaifulbahri
 [MrAmmarS]: https://www.linkedin.com/in/ammarsaifulbahri
+[gitlab]: https://gitlab.com/mrammars
 
 ### Hi there, I'm Ammar aka [MrAmmarS]👋 
 
 ## I'm a Developer, and Enjoy Learning Person!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other awesome people
+- 🕺 I’m looking to collaborate with other awesome people
+- 👽 I'm more effective and livelier on [gitlab] than github.
 <!-- - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games and reading, it is true, i really enjoy reading! -->
 
