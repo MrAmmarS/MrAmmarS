@@ -5,7 +5,7 @@
 [gitlab]: https://gitlab.com/mrammars
 
 <h1 align="center">Hi 👋, I'm Ammar</h1>
-<h3 align="center"> I consider myself as highly analytical person with curiosity mind.</h3>
+<h3 align="center"> A highly analytical person with curiosity mind.</h3>
 <!-- I'm a Developer, and Enjoy Learning Person!! -->
 
 - 🌱 I’m currently learning **Flask & Data Science**
@@ -20,7 +20,8 @@
 
 <br /> -->
 
-### Languages and Tools:
+
+<h3 align="left">Languages and Tools:</h3>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -36,7 +37,6 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
