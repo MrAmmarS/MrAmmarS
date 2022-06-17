@@ -46,6 +46,4 @@
 
 <p>&nbsp;<img style="height: 165px" align="center" src="https://github-readme-stats.vercel.app/api?username=mrammars&show_icons=true&locale=en" alt="mrammars" /></p>
 
-<div align="center">
 <a href="https://www.buymeacoffee.com/MrAmmarS" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="20" width="87"></a>
-</div>
