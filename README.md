@@ -42,8 +42,8 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrammars&show_icons=true&locale=en&layout=compact" alt="mrammars" /></p>
+<p>align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mrammars&show_icons=true" alt="mrammars" /></p>
 
-<p>&nbsp;<img style="height: 165px" align="center" src="https://github-readme-stats.vercel.app/api?username=mrammars&show_icons=true&locale=en" alt="mrammars" /></p>
+<!--- <p>&nbsp;<img style="height: 165px" align="center" src="https://github-readme-stats.vercel.app/api?username=mrammars&show_icons=true&locale=en" alt="mrammars" /></p> -->
 
 <a href="https://www.buymeacoffee.com/MrAmmarS" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="20" width="87"></a>
