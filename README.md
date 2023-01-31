@@ -55,14 +55,20 @@
 [<img align="top" alt="Twitter" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 <br><br>
 
-<br /><br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mrammars&show_icons=true" alt="mrammars" /></p>
+## My GitHub Stats &#x1f4c8;🎯
+<p align="center" style="padding-top: 15px;"> <img width=75% src="https://github-readme-stats.vercel.app/api?username=mrammars&show_icons=true" alt="mrammars" /></p>
+
+## Just a Snake 🐍 Eating away my Contributions...😭
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/github-snake.svg">
+  <img alt="github-snake" src="images/github-snake-dark.svg">
+</picture>
 
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
 <br>
 <p align='center'>
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<br>
 
 <p align="center">
     <a href="https://www.buymeacoffee.com/MrAmmarS" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="20" width="87"></a>
