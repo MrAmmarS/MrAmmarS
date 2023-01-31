@@ -1,7 +1,7 @@
 [twitter]: https://twitter.com/mrsenpie
 [instagram]: https://instagram.com/mrsenpie
-[linkedin]: https://www.linkedin.com/in/ammarsaifulbahri
-[MrAmmarS]: https://www.linkedin.com/in/ammarsaifulbahri
+[linkedin]: https://www.linkedin.com/in/mrammars/
+[MrAmmarS]: https://mrammars.github.io/
 [gitlab]: https://gitlab.com/mrammars
 
 <h1 align="center">Hi 👋, I'm Ammar</h1>
@@ -11,14 +11,6 @@
 - 🌱 I’m currently learning **Flask & Data Science**
 - 🕺 I’m looking to collaborate with other awesome people
 - 📫 How to reach me **ammar.saifulbahri96@gmail.com**
-
-<!-- ### Connect with me:
-
-[<img align="left" alt="mrsenpie | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ammarsaifulbahri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mrsenpie | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br /> -->
 
 
 ## **Tech Toolbox, Languages & Tools🧰**<br>
@@ -46,6 +38,23 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
+
+
+
+<br />
+<br />
+<img src ="images/social_dashboard.svg" align = "left" width = 50%>
+<div>
+<h2 style="font-weight:650"> Connect with me 🔗</h2>
+<br>
+
+[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+<br><br>
+[<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-d86aad?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+<br><br>
+[<img align="top" alt="Twitter" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+<br><br>
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mrammars&show_icons=true" alt="mrammars" /></p>
 
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
@@ -54,5 +63,6 @@
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br>
 
-
-<a align='center' href="https://www.buymeacoffee.com/MrAmmarS" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="20" width="87"></a>
+<p align="center">
+    <a href="https://www.buymeacoffee.com/MrAmmarS" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="20" width="87"></a>
+</p>
