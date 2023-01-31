@@ -43,7 +43,7 @@
 
 <br />
 <br />
-<img src ="images/social_dashboard.svg" align = "left" width = 45% height="40%">
+<img src ="images/social_dashboard.svg" align = "left" width = 50% height="45%">
 <h2 style="font-weight:650"> Connect with me 🔗</h2>
 <br>
 
