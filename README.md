@@ -44,7 +44,6 @@
 <br />
 <br />
 <img src ="images/social_dashboard.svg" align = "left" width = 50%>
-<div>
 <h2 style="font-weight:650"> Connect with me 🔗</h2>
 <br>
 
@@ -55,6 +54,7 @@
 [<img align="top" alt="Twitter" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 <br><br>
 
+<br />
 
 ## My GitHub Stats &#x1f4c8;🎯
 <p align="center" style="padding-top: 15px;"> <img width=75% src="https://github-readme-stats.vercel.app/api?username=mrammars&show_icons=true" alt="mrammars" /></p>
