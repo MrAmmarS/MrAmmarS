@@ -44,6 +44,11 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mrammars&show_icons=true" alt="mrammars" /></p>
 
-<!--- <p>&nbsp;<img style="height: 165px" align="center" src="https://github-readme-stats.vercel.app/api?username=mrammars&show_icons=true&locale=en" alt="mrammars" /></p> -->
+<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
+<br>
+<p align='center'>
+<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<br>
+
 
 <a href="https://www.buymeacoffee.com/MrAmmarS" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="20" width="87"></a>
