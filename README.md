@@ -19,6 +19,24 @@
 - 🏥 Currently working with Firesell as a Junior Developer. 
 - 💪 Seeking opportunities to challenge and push my boundaries. 
 
+
+
+<h3 align="left">Interests:</h3>
+
+- Laravel 
+- Software Architecture
+- Design System
+- Database
+- Artificial Intelligence
+
+<h3 align="left">Languages:</h3>
+
+- Malaysia 
+- English
+- Русски (beginner 🙂)
+
+<br />
+
 ## **Tech Toolbox, Languages & Tools🧰**<br>
 
 <p align='center'>
