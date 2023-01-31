@@ -7,11 +7,17 @@
 <h1 align="center">Hi 👋, I'm Ammar</h1>
 <h3 align="center"> A highly analytical person with curiosity mind.</h3>
 <!-- I'm a Developer, and Enjoy Learning Person!! -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/coding_2.gif">
+  <source media="(prefers-color-scheme: light)" srcset="/images/coding.gif" />
+  <img width="40%" align="right" alt="Github Header" src="images/coding_2.gif" />
+</picture>
 
 - 🌱 I’m currently learning **Flask & Data Science**
-- 🕺 I’m looking to collaborate with other awesome people
+- 🕺 I’m looking to connect with other awesome people
 - 📫 How to reach me **ammar.saifulbahri96@gmail.com**
-
+- 🏥 Currently working with Firesell as a Junior Developer. 
+- 💪 Seeking opportunities to challenge and push my boundaries. 
 
 ## **Tech Toolbox, Languages & Tools🧰**<br>
 
@@ -43,7 +49,7 @@
 
 <br />
 <br />
-<img src ="images/social_dashboard.svg" align = "left" style = "width:325px; height:200px" >
+<img src ="images/social_dashboard.svg" align = "left" width = 45% height="40%">
 <h2 style="font-weight:650"> Connect with me 🔗</h2>
 <br>
 
