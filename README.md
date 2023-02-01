@@ -33,7 +33,7 @@
 
 - Malaysia 
 - English
-- Русски (beginner 🙂)
+- Русскии (beginner 🙂)
 
 <br />
 
