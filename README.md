@@ -5,6 +5,7 @@
 [gitlab]: https://gitlab.com/mrammars
 
 <h1 align="center">Hi 👋, I'm Ammar</h1>
+<br />
 <h3 align="center"> A highly analytical person with curiosity mind.</h3>
 <!-- I'm a Developer, and Enjoy Learning Person!! -->
 <picture>
