@@ -4,7 +4,8 @@
 [MrAmmarS]: https://mrammars.github.io/
 [gitlab]: https://gitlab.com/mrammars
 
-<h1 align="center">Hi 👋, I'm Ammar</h1><br />
+<h1 align="center">Hi 👋, I'm Ammar</h1>
+
 <h3 align="center"> A highly analytical person with curiosity mind.</h3>
 <!-- I'm a Developer, and Enjoy Learning Person!! -->
 <picture>
@@ -18,8 +19,6 @@
 - 📫 How to reach me **ammar.saifulbahri96@gmail.com**
 - 🏥 Currently working with Firesell as a Junior Developer. 
 - 💪 Seeking opportunities to challenge and push my boundaries. 
-
-
 
 <h3 align="left">Interests:</h3>
 
