@@ -23,7 +23,7 @@
 
 <h3 align="left">Interests:</h3>
 
-- Laravel 
+- System Development 
 - Software Architecture
 - Design System
 - Database
