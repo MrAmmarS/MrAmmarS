@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning **Business Management & Data Analysis**
 - 🕺 I’m looking to connect with other awesome people
 - 📫 How to reach me **ammar.saifulbahri96@gmail.com**
-- 🏥 Currently working with Daysmart Vetter as Software Developer (UI/UX). 
+- 🏥 Currently working with Daysmart Vetter as UI/UX Engineer. 
 - 💪 Seeking opportunities to challenge and push my boundaries. 
 
 <h3 align="left">Interests:</h3>
