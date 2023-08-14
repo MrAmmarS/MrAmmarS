@@ -78,8 +78,10 @@
 <br><br>
 <br><br>
 
+<!--
 ## My GitHub Stats &#x1f4c8;🎯
 <p align="center" style="padding-top: 15px;"> <img width=50% height=80% src="https://github-readme-stats.vercel.app/api?username=mrammars&show_icons=true" alt="mrammars" /></p>
+-->
 
 ## Just a Snake 🐍 Eating away my Contributions...😭
 <picture>
